@@ -1,0 +1,13 @@
+{
+  "minimal-advanced@@cursor": "crosshair",
+  "minimal-style@@blockquote-border-color@@dark": "#FFFFFF",
+  "minimal-style@@blockquote-color@@dark": "#FFFFFF",
+  "minimal-style@@blockquote-background-color@@dark": "#313567",
+  "minimal-style@@blockquote-border-thickness": 5,
+  "minimal-style@@blockquote-font-style": "italic",
+  "minimal-style@@h1-l": true,
+  "minimal-style@@h1-size": "1.6em",
+  "minimal-style@@h2-size": "1.25em",
+  "minimal-style@@h2-l": false,
+  "minimal-style@@h2-style": "italic"
+}

@@ -1,0 +1,15 @@
+{
+  "newFileLocation": "folder",
+  "promptDelete": false,
+  "attachmentFolderPath": "000/Attachments",
+  "newFileFolderPath": "001 Archive",
+  "alwaysUpdateLinks": true,
+  "autoConvertHtml": true,
+  "pdfExportSettings": {
+    "includeName": true,
+    "pageSize": "A4",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  }
+}
