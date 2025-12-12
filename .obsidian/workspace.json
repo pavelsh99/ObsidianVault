@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "001 Archive/74. НАСЛЕДОВАНИЕ И МОДИФИКАТОРЫ ДОСТУПА.  МОДИФИКАТОРЫ ДОСТУПА. МОДИФИКАТОР PORTECTED..md",
+                "file": "001 Archive/75. ПОЛИМОРФИЗМ. ВИРТУАЛЬНЫЕ МЕТОДЫ. VIRTUAL OVERRIDE..md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "74. НАСЛЕДОВАНИЕ И МОДИФИКАТОРЫ ДОСТУПА.  МОДИФИКАТОРЫ ДОСТУПА. МОДИФИКАТОР PORTECTED."
+              "title": "75. ПОЛИМОРФИЗМ. ВИРТУАЛЬНЫЕ МЕТОДЫ. VIRTUAL OVERRIDE."
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "001 Archive/74. НАСЛЕДОВАНИЕ И МОДИФИКАТОРЫ ДОСТУПА.  МОДИФИКАТОРЫ ДОСТУПА. МОДИФИКАТОР PORTECTED..md",
+                "file": "001 Archive/75. ПОЛИМОРФИЗМ. ВИРТУАЛЬНЫЕ МЕТОДЫ. VIRTUAL OVERRIDE..md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки для 74. НАСЛЕДОВАНИЕ И МОДИФИКАТОРЫ ДОСТУПА.  МОДИФИКАТОРЫ ДОСТУПА. МОДИФИКАТОР PORTECTED."
+              "title": "Обратные ссылки для 75. ПОЛИМОРФИЗМ. ВИРТУАЛЬНЫЕ МЕТОДЫ. VIRTUAL OVERRIDE."
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "001 Archive/74. НАСЛЕДОВАНИЕ И МОДИФИКАТОРЫ ДОСТУПА.  МОДИФИКАТОРЫ ДОСТУПА. МОДИФИКАТОР PORTECTED..md",
+                "file": "001 Archive/75. ПОЛИМОРФИЗМ. ВИРТУАЛЬНЫЕ МЕТОДЫ. VIRTUAL OVERRIDE..md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Исходящие ссылки из 74. НАСЛЕДОВАНИЕ И МОДИФИКАТОРЫ ДОСТУПА.  МОДИФИКАТОРЫ ДОСТУПА. МОДИФИКАТОР PORTECTED."
+              "title": "Исходящие ссылки из 75. ПОЛИМОРФИЗМ. ВИРТУАЛЬНЫЕ МЕТОДЫ. VIRTUAL OVERRIDE."
             }
           },
           {
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "001 Archive/74. НАСЛЕДОВАНИЕ И МОДИФИКАТОРЫ ДОСТУПА.  МОДИФИКАТОРЫ ДОСТУПА. МОДИФИКАТОР PORTECTED..md",
+                "file": "001 Archive/75. ПОЛИМОРФИЗМ. ВИРТУАЛЬНЫЕ МЕТОДЫ. VIRTUAL OVERRIDE..md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура 74. НАСЛЕДОВАНИЕ И МОДИФИКАТОРЫ ДОСТУПА.  МОДИФИКАТОРЫ ДОСТУПА. МОДИФИКАТОР PORTECTED."
+              "title": "Структура 75. ПОЛИМОРФИЗМ. ВИРТУАЛЬНЫЕ МЕТОДЫ. VIRTUAL OVERRIDE."
             }
           }
         ],
@@ -172,11 +172,16 @@
   },
   "active": "dc4bb7d3ce00a091",
   "lastOpenFiles": [
-    "001 Archive/73. ОПЕРАТОРЫ AS IS. НАСЛЕДОВАНИЕ И ПРИВЕДЕНИЕ ТИПОВ..md",
+    "001 Archive/68. PARTIAL CLASS. ЧАСТИЧНЫЕ ТИПЫ. PARTIAL МЕТОДЫ.md",
+    "001 Archive/69.РАЗНИЦА CONST VS READONLY.  CONST И STATIC.md",
     "001 Archive/70. СИНТАКСИС ИНИЦИАЛИЗАЦИИ ОБЪЕКТОВ КЛАССА..md",
     "001 Archive/71. НАСЛЕДОВАНИЕ. ЧТО ТАКОЕ НАСЛЕДОВАНИЕ В ООП..md",
     "001 Archive/72. КЛЮЧЕВОЕ СЛОВО BASE. НАСЛЕДОВАНИЕ И КОНСТРУКТОР КЛАССА..md",
+    "001 Archive/73. ОПЕРАТОРЫ AS IS. НАСЛЕДОВАНИЕ И ПРИВЕДЕНИЕ ТИПОВ..md",
     "001 Archive/74. НАСЛЕДОВАНИЕ И МОДИФИКАТОРЫ ДОСТУПА.  МОДИФИКАТОРЫ ДОСТУПА. МОДИФИКАТОР PORTECTED..md",
+    "001 Archive/75. ПОЛИМОРФИЗМ. ВИРТУАЛЬНЫЕ МЕТОДЫ. VIRTUAL OVERRIDE..md",
+    "000/Attachments/Pasted image 20251211234905.png",
+    "000/Attachments/Pasted image 20251211234902.png",
     "001 Archive/23.ТЕРНАРНЫЙ ОПЕРАТОР.md",
     "001 Archive/39. ЧТО ТАКОЕ NULL.md",
     "001 Archive/38. ССЫЛОЧНЫЕ И ЗНАЧИМЫЕ ТИПЫ. СТЕК И КУЧА.md",
@@ -201,13 +206,8 @@
     "001 Archive/HOMEWORK/HW 9.md",
     "001 Archive/HOMEWORK/HW 10.md",
     "001 Archive/HOMEWORK/HW 11.md",
-    "001 Archive/HOMEWORK/HW 4 Сделать приложение которое считает четные и нечетные в числе.md",
-    "001 Archive/HOMEWORK/Hw 7.md",
-    "001 Archive/26. ВЫВОД МАССИВА. ПЕРЕБОР МАССИВА. МАССИВЫ И ЦИКЛЫ.md",
     "000/Attachments/Pasted image 20251207173927.png",
     "000/Attachments/Pasted image 20251207020538.png",
-    "000/Attachments/Pasted image 20251207165128.png",
-    "000/Attachments/Pasted image 20251207165125.png",
     "001 Archive/Без названия 1.base",
     "001 Archive/Без названия.base",
     "001 Archive/Без названия 2.base",
