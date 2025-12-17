@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "001 Archive/75. ПОЛИМОРФИЗМ. ВИРТУАЛЬНЫЕ МЕТОДЫ. VIRTUAL OVERRIDE..md",
+                "file": "001 Archive/72. КЛЮЧЕВОЕ СЛОВО BASE. НАСЛЕДОВАНИЕ И КОНСТРУКТОР КЛАССА..md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "75. ПОЛИМОРФИЗМ. ВИРТУАЛЬНЫЕ МЕТОДЫ. VIRTUAL OVERRIDE."
+              "title": "72. КЛЮЧЕВОЕ СЛОВО BASE. НАСЛЕДОВАНИЕ И КОНСТРУКТОР КЛАССА."
             }
           }
         ]
@@ -172,14 +172,14 @@
   },
   "active": "dc4bb7d3ce00a091",
   "lastOpenFiles": [
+    "001 Archive/73. ОПЕРАТОРЫ AS IS. НАСЛЕДОВАНИЕ И ПРИВЕДЕНИЕ ТИПОВ..md",
     "001 Archive/68. PARTIAL CLASS. ЧАСТИЧНЫЕ ТИПЫ. PARTIAL МЕТОДЫ.md",
+    "001 Archive/75. ПОЛИМОРФИЗМ. ВИРТУАЛЬНЫЕ МЕТОДЫ. VIRTUAL OVERRIDE..md",
     "001 Archive/69.РАЗНИЦА CONST VS READONLY.  CONST И STATIC.md",
     "001 Archive/70. СИНТАКСИС ИНИЦИАЛИЗАЦИИ ОБЪЕКТОВ КЛАССА..md",
     "001 Archive/71. НАСЛЕДОВАНИЕ. ЧТО ТАКОЕ НАСЛЕДОВАНИЕ В ООП..md",
     "001 Archive/72. КЛЮЧЕВОЕ СЛОВО BASE. НАСЛЕДОВАНИЕ И КОНСТРУКТОР КЛАССА..md",
-    "001 Archive/73. ОПЕРАТОРЫ AS IS. НАСЛЕДОВАНИЕ И ПРИВЕДЕНИЕ ТИПОВ..md",
     "001 Archive/74. НАСЛЕДОВАНИЕ И МОДИФИКАТОРЫ ДОСТУПА.  МОДИФИКАТОРЫ ДОСТУПА. МОДИФИКАТОР PORTECTED..md",
-    "001 Archive/75. ПОЛИМОРФИЗМ. ВИРТУАЛЬНЫЕ МЕТОДЫ. VIRTUAL OVERRIDE..md",
     "000/Attachments/Pasted image 20251211234905.png",
     "000/Attachments/Pasted image 20251211234902.png",
     "001 Archive/23.ТЕРНАРНЫЙ ОПЕРАТОР.md",
