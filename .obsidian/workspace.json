@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "001 Archive/21. КЛЮЧЕВОЕ СЛОВО CONTINUE.md",
+                "file": "001 Archive/75. ПОЛИМОРФИЗМ. ВИРТУАЛЬНЫЕ МЕТОДЫ. VIRTUAL OVERRIDE..md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "21. КЛЮЧЕВОЕ СЛОВО CONTINUE"
+              "title": "75. ПОЛИМОРФИЗМ. ВИРТУАЛЬНЫЕ МЕТОДЫ. VIRTUAL OVERRIDE."
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "cont",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,8 +74,7 @@
               "title": "Закладки"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -173,10 +172,12 @@
   },
   "active": "dc4bb7d3ce00a091",
   "lastOpenFiles": [
+    "001 Archive/89. СОБЫТИЯ (EVENTS).md",
+    "001 Archive/Без названия 1.base",
+    "001 Archive/21. КЛЮЧЕВОЕ СЛОВО CONTINUE.md",
     "001 Archive/16. ЦИКЛ WHILE ЧТО ЭТО КАК РАБОТАЕТ.md",
     "001 Archive/38. ССЫЛОЧНЫЕ И ЗНАЧИМЫЕ ТИПЫ. СТЕК И КУЧА.md",
     "001 Archive/75. ПОЛИМОРФИЗМ. ВИРТУАЛЬНЫЕ МЕТОДЫ. VIRTUAL OVERRIDE..md",
-    "001 Archive/89. СОБЫТИЯ (EVENTS).md",
     "001 Archive/Без названия.base",
     "001 Archive/15. SWITCH.CASE ОПЕРАТОР МНОЖЕСТВЕННОГО ВЫБОРА..md",
     "001 Archive/72. КЛЮЧЕВОЕ СЛОВО BASE. НАСЛЕДОВАНИЕ И КОНСТРУКТОР КЛАССА..md",
@@ -206,11 +207,8 @@
     "001 Archive/59. КОНСТРУКТОР КЛАССА. ДЛЯ ЧЕГО НУЖЕН. КОНСТРУКТОР ПО УМОЛЧАНИЮ.md",
     "001 Archive/61. КЛЮЧЕВОЕ СЛОВО THIS. THIS В КОНСТРУКТОРЕ.md",
     "001 Archive/27. КАК РАБОТАТЬ С МАССИВАМИ В  НА САМОМ ДЕЛЕ. LINQ и методы ARRAY.md",
-    "001 Archive/HOMEWORK/HW 8.md",
-    "001 Archive/HOMEWORK/HW 9.md",
     "000/Attachments/Pasted image 20251207173927.png",
     "000/Attachments/Pasted image 20251207020538.png",
-    "001 Archive/Без названия 1.base",
     "001 Archive/Без названия 2.base",
     "001 Archive/0Csharp.canvas",
     "Без названия.canvas",
