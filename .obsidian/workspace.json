@@ -25,12 +25,14 @@
             "id": "303d33db6c3f3620",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.11.4"
+                "file": "001 Archive/76.  АБСТРАКТНЫЕ КЛАССЫ И МЕТОДЫ.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "примечания к выпуску 1.11.4"
+              "icon": "lucide-file",
+              "title": "76.  АБСТРАКТНЫЕ КЛАССЫ И МЕТОДЫ"
             }
           }
         ],
@@ -185,8 +187,10 @@
   },
   "active": "303d33db6c3f3620",
   "lastOpenFiles": [
-    "001 Archive/76.  АБСТРАКТНЫЕ КЛАССЫ И МЕТОДЫ.md",
     "001 Archive/77. ИНТЕРФЕЙСЫ. ЗАЧЕМ НУЖНЫ И КАК ИСПОЛЬЗОВАТЬ..md",
+    "001 Archive/Без названия.base",
+    "001 Archive/43. КЛЮЧЕВОЕ СЛОВО REF.md",
+    "001 Archive/76.  АБСТРАКТНЫЕ КЛАССЫ И МЕТОДЫ.md",
     "001 Archive/89. СОБЫТИЯ (EVENTS).md",
     "001 Archive/75. ПОЛИМОРФИЗМ. ВИРТУАЛЬНЫЕ МЕТОДЫ. VIRTUAL OVERRIDE..md",
     "001 Archive/62. СВОЙСТВА GET SET. КЛЮЧЕВОЕ СЛОВО VALUE. АВТОМАТИЧЕСКИЕ СВОЙСТВА.md",
@@ -197,7 +201,6 @@
     "001 Archive/21. КЛЮЧЕВОЕ СЛОВО CONTINUE.md",
     "001 Archive/16. ЦИКЛ WHILE ЧТО ЭТО КАК РАБОТАЕТ.md",
     "001 Archive/38. ССЫЛОЧНЫЕ И ЗНАЧИМЫЕ ТИПЫ. СТЕК И КУЧА.md",
-    "001 Archive/Без названия.base",
     "001 Archive/15. SWITCH.CASE ОПЕРАТОР МНОЖЕСТВЕННОГО ВЫБОРА..md",
     "001 Archive/72. КЛЮЧЕВОЕ СЛОВО BASE. НАСЛЕДОВАНИЕ И КОНСТРУКТОР КЛАССА..md",
     "001 Archive/73. ОПЕРАТОРЫ AS IS. НАСЛЕДОВАНИЕ И ПРИВЕДЕНИЕ ТИПОВ..md",
@@ -221,8 +224,6 @@
     "001 Archive/65. STATIC КОНСТРУКТОР..md",
     "001 Archive/66. STATIC КЛАСС.md",
     "001 Archive/53. VAR ЭТО НЕ ТИП ДАННЫХ. Неявно типизированные переменные.md",
-    "001 Archive/60. ПЕРЕГРУЗКА КОНСТРУКТОРА МЕТОДА..md",
-    "001 Archive/59. КОНСТРУКТОР КЛАССА. ДЛЯ ЧЕГО НУЖЕН. КОНСТРУКТОР ПО УМОЛЧАНИЮ.md",
     "001 Archive/Без названия 2.base",
     "001 Archive/0Csharp.canvas",
     "Без названия.canvas",
