@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "77. ИНТЕРФЕЙСЫ. ЗАЧЕМ НУЖНЫ И КАК ИСПОЛЬЗОВАТЬ."
             }
+          },
+          {
+            "id": "303d33db6c3f3620",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.11.4"
+              },
+              "icon": "lucide-book-up",
+              "title": "примечания к выпуску 1.11.4"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -170,7 +183,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "dc4bb7d3ce00a091",
+  "active": "303d33db6c3f3620",
   "lastOpenFiles": [
     "001 Archive/76.  АБСТРАКТНЫЕ КЛАССЫ И МЕТОДЫ.md",
     "001 Archive/77. ИНТЕРФЕЙСЫ. ЗАЧЕМ НУЖНЫ И КАК ИСПОЛЬЗОВАТЬ..md",
