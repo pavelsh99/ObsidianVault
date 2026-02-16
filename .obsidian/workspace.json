@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "001 Archive/79.ЯВНАЯ РЕАЛИЗАЦИЯ ИНТЕРФЕЙСА.md",
+                "file": "001 Archive/80. РЕАЛИЗАЦИЯ ИНТЕРФЕЙСОВ ПО-УМОЛЧАНИЮ В CSHARP 8.0.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "79.ЯВНАЯ РЕАЛИЗАЦИЯ ИНТЕРФЕЙСА"
+              "title": "80. РЕАЛИЗАЦИЯ ИНТЕРФЕЙСОВ ПО-УМОЛЧАНИЮ В CSHARP 8.0"
             }
           }
         ],
@@ -187,10 +187,12 @@
   },
   "active": "83ea78df180ac5d3",
   "lastOpenFiles": [
-    "001 Archive/73. ОПЕРАТОРЫ AS IS. НАСЛЕДОВАНИЕ И ПРИВЕДЕНИЕ ТИПОВ..md",
-    "001 Archive/79.ЯВНАЯ РЕАЛИЗАЦИЯ ИНТЕРФЕЙСА.md",
-    "001 Archive/78. НАСЛЕДОВАНИЕ ИНТЕРФЕЙСОВ. МНОЖЕСТВЕННОЕ НАСЛЕДОВАНИЕ.md",
+    "000/Attachments/Pasted image 20260216124719.png",
     "001 Archive/89. СОБЫТИЯ (EVENTS).md",
+    "001 Archive/80. РЕАЛИЗАЦИЯ ИНТЕРФЕЙСОВ ПО-УМОЛЧАНИЮ В CSHARP 8.0.md",
+    "001 Archive/79.ЯВНАЯ РЕАЛИЗАЦИЯ ИНТЕРФЕЙСА.md",
+    "001 Archive/73. ОПЕРАТОРЫ AS IS. НАСЛЕДОВАНИЕ И ПРИВЕДЕНИЕ ТИПОВ..md",
+    "001 Archive/78. НАСЛЕДОВАНИЕ ИНТЕРФЕЙСОВ. МНОЖЕСТВЕННОЕ НАСЛЕДОВАНИЕ.md",
     "001 Archive/77. ИНТЕРФЕЙСЫ. ЗАЧЕМ НУЖНЫ И КАК ИСПОЛЬЗОВАТЬ..md",
     "001 Archive/74. НАСЛЕДОВАНИЕ И МОДИФИКАТОРЫ ДОСТУПА.  МОДИФИКАТОРЫ ДОСТУПА. МОДИФИКАТОР PORTECTED..md",
     "000/Attachments/Pasted image 20260215144103.png",
@@ -219,8 +221,6 @@
     "000/Attachments/Pasted image 20260108171549.png",
     "001 Archive/Без названия 1.base",
     "001 Archive/21. КЛЮЧЕВОЕ СЛОВО CONTINUE.md",
-    "001 Archive/38. ССЫЛОЧНЫЕ И ЗНАЧИМЫЕ ТИПЫ. СТЕК И КУЧА.md",
-    "001 Archive/15. SWITCH.CASE ОПЕРАТОР МНОЖЕСТВЕННОГО ВЫБОРА..md",
     "000/Attachments/Pasted image 20251211234905.png",
     "000/Attachments/Pasted image 20251211234902.png",
     "000/Attachments/Pasted image 20251210004832.png",
