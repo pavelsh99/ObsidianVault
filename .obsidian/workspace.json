@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "001 Archive/80. РЕАЛИЗАЦИЯ ИНТЕРФЕЙСОВ ПО-УМОЛЧАНИЮ В CSHARP 8.0.md",
+                "file": "001 Archive/28. ИНДЕКСЫ И ДИАПАЗОНЫ.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "80. РЕАЛИЗАЦИЯ ИНТЕРФЕЙСОВ ПО-УМОЛЧАНИЮ В CSHARP 8.0"
+              "title": "28. ИНДЕКСЫ И ДИАПАЗОНЫ"
             }
           }
         ],
@@ -68,7 +68,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#структуры",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -89,7 +89,8 @@
               "title": "Закладки"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -187,9 +188,10 @@
   },
   "active": "83ea78df180ac5d3",
   "lastOpenFiles": [
-    "000/Attachments/Pasted image 20260216124719.png",
+    "001 Archive/81. СТРУКТУРЫ. ОТЛИЧИЯ ОТ КЛАССОВ.md",
     "001 Archive/89. СОБЫТИЯ (EVENTS).md",
     "001 Archive/80. РЕАЛИЗАЦИЯ ИНТЕРФЕЙСОВ ПО-УМОЛЧАНИЮ В CSHARP 8.0.md",
+    "000/Attachments/Pasted image 20260216124719.png",
     "001 Archive/79.ЯВНАЯ РЕАЛИЗАЦИЯ ИНТЕРФЕЙСА.md",
     "001 Archive/73. ОПЕРАТОРЫ AS IS. НАСЛЕДОВАНИЕ И ПРИВЕДЕНИЕ ТИПОВ..md",
     "001 Archive/78. НАСЛЕДОВАНИЕ ИНТЕРФЕЙСОВ. МНОЖЕСТВЕННОЕ НАСЛЕДОВАНИЕ.md",
@@ -224,7 +226,6 @@
     "000/Attachments/Pasted image 20251211234905.png",
     "000/Attachments/Pasted image 20251211234902.png",
     "000/Attachments/Pasted image 20251210004832.png",
-    "000/Attachments/Pasted image 20251210004605.png",
     "001 Archive/Без названия 2.base",
     "001 Archive/0Csharp.canvas",
     "Без названия.canvas",
