@@ -4,39 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "22e4e7a1f52a03fa",
+        "id": "3139d00ca74e5894",
         "type": "tabs",
         "children": [
           {
-            "id": "f6c64235e0fa1e47",
+            "id": "9db03d26ba27d07d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "001 Archive/78. НАСЛЕДОВАНИЕ ИНТЕРФЕЙСОВ. МНОЖЕСТВЕННОЕ НАСЛЕДОВАНИЕ.md",
+                "file": "001 Archive/81. СТРУКТУРЫ. ОТЛИЧИЯ ОТ КЛАССОВ.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "78. НАСЛЕДОВАНИЕ ИНТЕРФЕЙСОВ. МНОЖЕСТВЕННОЕ НАСЛЕДОВАНИЕ"
-            }
-          },
-          {
-            "id": "83ea78df180ac5d3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "001 Archive/28. ИНДЕКСЫ И ДИАПАЗОНЫ.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "28. ИНДЕКСЫ И ДИАПАЗОНЫ"
+              "title": "81. СТРУКТУРЫ. ОТЛИЧИЯ ОТ КЛАССОВ"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -68,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#структуры",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -89,8 +74,7 @@
               "title": "Закладки"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -186,15 +170,24 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "83ea78df180ac5d3",
+  "active": "9db03d26ba27d07d",
   "lastOpenFiles": [
+    "000/Attachments/Pasted image 20260218134952.png",
+    "000/Attachments/Pasted image 20260218134135.png",
+    "000/Attachments/Pasted image 20260218133056.png",
+    "001 Archive/45. МОДИФИКАТОР IN. РАЗНИЦА между IN REF и OUT..md",
+    "001 Archive/44. КЛЮЧЕВОЕ СЛОВО OUT. РАЗНИЦА между REF и OUT.md",
+    "001 Archive/43. КЛЮЧЕВОЕ СЛОВО REF.md",
     "001 Archive/81. СТРУКТУРЫ. ОТЛИЧИЯ ОТ КЛАССОВ.md",
+    "001 Archive/38. ССЫЛОЧНЫЕ И ЗНАЧИМЫЕ ТИПЫ. СТЕК И КУЧА.md",
+    "001 Archive/Без названия.base",
+    "001 Archive/28. ИНДЕКСЫ И ДИАПАЗОНЫ.md",
+    "001 Archive/78. НАСЛЕДОВАНИЕ ИНТЕРФЕЙСОВ. МНОЖЕСТВЕННОЕ НАСЛЕДОВАНИЕ.md",
     "001 Archive/89. СОБЫТИЯ (EVENTS).md",
     "001 Archive/80. РЕАЛИЗАЦИЯ ИНТЕРФЕЙСОВ ПО-УМОЛЧАНИЮ В CSHARP 8.0.md",
     "000/Attachments/Pasted image 20260216124719.png",
     "001 Archive/79.ЯВНАЯ РЕАЛИЗАЦИЯ ИНТЕРФЕЙСА.md",
     "001 Archive/73. ОПЕРАТОРЫ AS IS. НАСЛЕДОВАНИЕ И ПРИВЕДЕНИЕ ТИПОВ..md",
-    "001 Archive/78. НАСЛЕДОВАНИЕ ИНТЕРФЕЙСОВ. МНОЖЕСТВЕННОЕ НАСЛЕДОВАНИЕ.md",
     "001 Archive/77. ИНТЕРФЕЙСЫ. ЗАЧЕМ НУЖНЫ И КАК ИСПОЛЬЗОВАТЬ..md",
     "001 Archive/74. НАСЛЕДОВАНИЕ И МОДИФИКАТОРЫ ДОСТУПА.  МОДИФИКАТОРЫ ДОСТУПА. МОДИФИКАТОР PORTECTED..md",
     "000/Attachments/Pasted image 20260215144103.png",
@@ -213,19 +206,10 @@
     "001 Archive/7. ПРЕОБРАЗОВАНИЕ СТРОК. PARSE STRING. TRYPARSE STRING.md",
     "001 Archive/26. ВЫВОД МАССИВА. ПЕРЕБОР МАССИВА. МАССИВЫ И ЦИКЛЫ.md",
     "001 Archive/57 МОДИФИКАТОРЫ ДОСТУПА. РАЗНИЦА МЕЖДУ PUBLIC И PRIVATE.md",
-    "001 Archive/58. ИНКАПСУЛЯЦИЯ. ПРИМЕРЫ.md",
-    "001 Archive/59. КОНСТРУКТОР КЛАССА. ДЛЯ ЧЕГО НУЖЕН. КОНСТРУКТОР ПО УМОЛЧАНИЮ.md",
-    "001 Archive/56. МЕТОДЫ И КЛАССЫ.ООП CSHARP И ВЫЗОВ МЕТОДА ОБЪЕКТА КЛАССА..md",
-    "001 Archive/Без названия.base",
-    "001 Archive/43. КЛЮЧЕВОЕ СЛОВО REF.md",
-    "001 Archive/51. АРИФМЕТИЧЕСКОЕ ПЕРЕПОЛНЕНИЕ. CHECKED UNCHECKED.md",
     "000/Attachments/Pasted image 20260108171556.png",
     "000/Attachments/Pasted image 20260108171549.png",
     "001 Archive/Без названия 1.base",
-    "001 Archive/21. КЛЮЧЕВОЕ СЛОВО CONTINUE.md",
     "000/Attachments/Pasted image 20251211234905.png",
-    "000/Attachments/Pasted image 20251211234902.png",
-    "000/Attachments/Pasted image 20251210004832.png",
     "001 Archive/Без названия 2.base",
     "001 Archive/0Csharp.canvas",
     "Без названия.canvas",
