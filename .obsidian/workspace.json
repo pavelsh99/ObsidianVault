@@ -11,14 +11,10 @@
             "id": "9db03d26ba27d07d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "001 Archive/81. СТРУКТУРЫ. ОТЛИЧИЯ ОТ КЛАССОВ.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "81. СТРУКТУРЫ. ОТЛИЧИЯ ОТ КЛАССОВ"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Граф"
             }
           }
         ]
@@ -172,13 +168,13 @@
   },
   "active": "9db03d26ba27d07d",
   "lastOpenFiles": [
+    "001 Archive/81. СТРУКТУРЫ. ОТЛИЧИЯ ОТ КЛАССОВ.md",
     "000/Attachments/Pasted image 20260218134952.png",
     "000/Attachments/Pasted image 20260218134135.png",
     "000/Attachments/Pasted image 20260218133056.png",
     "001 Archive/45. МОДИФИКАТОР IN. РАЗНИЦА между IN REF и OUT..md",
     "001 Archive/44. КЛЮЧЕВОЕ СЛОВО OUT. РАЗНИЦА между REF и OUT.md",
     "001 Archive/43. КЛЮЧЕВОЕ СЛОВО REF.md",
-    "001 Archive/81. СТРУКТУРЫ. ОТЛИЧИЯ ОТ КЛАССОВ.md",
     "001 Archive/38. ССЫЛОЧНЫЕ И ЗНАЧИМЫЕ ТИПЫ. СТЕК И КУЧА.md",
     "001 Archive/Без названия.base",
     "001 Archive/28. ИНДЕКСЫ И ДИАПАЗОНЫ.md",
@@ -209,7 +205,6 @@
     "000/Attachments/Pasted image 20260108171556.png",
     "000/Attachments/Pasted image 20260108171549.png",
     "001 Archive/Без названия 1.base",
-    "000/Attachments/Pasted image 20251211234905.png",
     "001 Archive/Без названия 2.base",
     "001 Archive/0Csharp.canvas",
     "Без названия.canvas",
