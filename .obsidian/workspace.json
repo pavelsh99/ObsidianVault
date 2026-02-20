@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "3139d00ca74e5894",
+        "id": "d178fc24f51f29e4",
         "type": "tabs",
         "children": [
           {
-            "id": "9db03d26ba27d07d",
+            "id": "236bdde3bf4d9a96",
             "type": "leaf",
             "state": {
-              "type": "graph",
+              "type": "empty",
               "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Граф"
+              "icon": "lucide-file",
+              "title": "Новая вкладка"
             }
           }
         ]
@@ -166,8 +166,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9db03d26ba27d07d",
+  "active": "236bdde3bf4d9a96",
   "lastOpenFiles": [
+    "001 Archive/82.УПАКОВКА И РАСПАКОВКА ЗНАЧИМЫХ ТИПОВ. BOXING UNBOXING.md",
+    "000/Attachments/Pasted image 20260219122946.png",
+    "000/Attachments/Pasted image 20260219122907.png",
+    "000/Attachments/Pasted image 20260219122800.png",
+    "000/Attachments/Pasted image 20260219122724.png",
+    "000/Attachments/Pasted image 20260219121447.png",
     "001 Archive/81. СТРУКТУРЫ. ОТЛИЧИЯ ОТ КЛАССОВ.md",
     "000/Attachments/Pasted image 20260218134952.png",
     "000/Attachments/Pasted image 20260218134135.png",
@@ -187,9 +193,6 @@
     "001 Archive/77. ИНТЕРФЕЙСЫ. ЗАЧЕМ НУЖНЫ И КАК ИСПОЛЬЗОВАТЬ..md",
     "001 Archive/74. НАСЛЕДОВАНИЕ И МОДИФИКАТОРЫ ДОСТУПА.  МОДИФИКАТОРЫ ДОСТУПА. МОДИФИКАТОР PORTECTED..md",
     "000/Attachments/Pasted image 20260215144103.png",
-    "000/Attachments/Pasted image 20260215143137.png",
-    "000/Attachments/Pasted image 20260215142423.png",
-    "000/Attachments/Pasted image 20260215142249.png",
     "001 Archive/62. СВОЙСТВА GET SET. КЛЮЧЕВОЕ СЛОВО VALUE. АВТОМАТИЧЕСКИЕ СВОЙСТВА.md",
     "001 Archive/75. ПОЛИМОРФИЗМ. ВИРТУАЛЬНЫЕ МЕТОДЫ. VIRTUAL OVERRIDE..md",
     "001 Archive/76.  АБСТРАКТНЫЕ КЛАССЫ И МЕТОДЫ.md",
@@ -201,9 +204,6 @@
     "001 Archive/11. ИНКРЕМЕНТ И ДЕКРЕМЕНТ. ПОСТФИКСНЫЙ И ПРЕФИКСНЫЙ..md",
     "001 Archive/7. ПРЕОБРАЗОВАНИЕ СТРОК. PARSE STRING. TRYPARSE STRING.md",
     "001 Archive/26. ВЫВОД МАССИВА. ПЕРЕБОР МАССИВА. МАССИВЫ И ЦИКЛЫ.md",
-    "001 Archive/57 МОДИФИКАТОРЫ ДОСТУПА. РАЗНИЦА МЕЖДУ PUBLIC И PRIVATE.md",
-    "000/Attachments/Pasted image 20260108171556.png",
-    "000/Attachments/Pasted image 20260108171549.png",
     "001 Archive/Без названия 1.base",
     "001 Archive/Без названия 2.base",
     "001 Archive/0Csharp.canvas",
