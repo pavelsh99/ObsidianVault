@@ -11,10 +11,14 @@
             "id": "236bdde3bf4d9a96",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "001 Archive/83. ОБОБЩЕНИЯ. GENERICS. GENERIC ТИПЫ, МЕТОДЫ, КЛАССЫ.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Новая вкладка"
+              "title": "83. ОБОБЩЕНИЯ. GENERICS. GENERIC ТИПЫ, МЕТОДЫ, КЛАССЫ"
             }
           }
         ]
@@ -168,6 +172,10 @@
   },
   "active": "236bdde3bf4d9a96",
   "lastOpenFiles": [
+    "000/Attachments/Pasted image 20260220115627.png",
+    "000/Attachments/Pasted image 20260220115548.png",
+    "000/Attachments/Pasted image 20260220114113.png",
+    "001 Archive/83. ОБОБЩЕНИЯ. GENERICS. GENERIC ТИПЫ, МЕТОДЫ, КЛАССЫ.md",
     "001 Archive/82.УПАКОВКА И РАСПАКОВКА ЗНАЧИМЫХ ТИПОВ. BOXING UNBOXING.md",
     "000/Attachments/Pasted image 20260219122946.png",
     "000/Attachments/Pasted image 20260219122907.png",
@@ -187,12 +195,10 @@
     "001 Archive/78. НАСЛЕДОВАНИЕ ИНТЕРФЕЙСОВ. МНОЖЕСТВЕННОЕ НАСЛЕДОВАНИЕ.md",
     "001 Archive/89. СОБЫТИЯ (EVENTS).md",
     "001 Archive/80. РЕАЛИЗАЦИЯ ИНТЕРФЕЙСОВ ПО-УМОЛЧАНИЮ В CSHARP 8.0.md",
-    "000/Attachments/Pasted image 20260216124719.png",
     "001 Archive/79.ЯВНАЯ РЕАЛИЗАЦИЯ ИНТЕРФЕЙСА.md",
     "001 Archive/73. ОПЕРАТОРЫ AS IS. НАСЛЕДОВАНИЕ И ПРИВЕДЕНИЕ ТИПОВ..md",
     "001 Archive/77. ИНТЕРФЕЙСЫ. ЗАЧЕМ НУЖНЫ И КАК ИСПОЛЬЗОВАТЬ..md",
     "001 Archive/74. НАСЛЕДОВАНИЕ И МОДИФИКАТОРЫ ДОСТУПА.  МОДИФИКАТОРЫ ДОСТУПА. МОДИФИКАТОР PORTECTED..md",
-    "000/Attachments/Pasted image 20260215144103.png",
     "001 Archive/62. СВОЙСТВА GET SET. КЛЮЧЕВОЕ СЛОВО VALUE. АВТОМАТИЧЕСКИЕ СВОЙСТВА.md",
     "001 Archive/75. ПОЛИМОРФИЗМ. ВИРТУАЛЬНЫЕ МЕТОДЫ. VIRTUAL OVERRIDE..md",
     "001 Archive/76.  АБСТРАКТНЫЕ КЛАССЫ И МЕТОДЫ.md",
@@ -203,7 +209,6 @@
     "001 Archive/16. ЦИКЛ WHILE ЧТО ЭТО КАК РАБОТАЕТ.md",
     "001 Archive/11. ИНКРЕМЕНТ И ДЕКРЕМЕНТ. ПОСТФИКСНЫЙ И ПРЕФИКСНЫЙ..md",
     "001 Archive/7. ПРЕОБРАЗОВАНИЕ СТРОК. PARSE STRING. TRYPARSE STRING.md",
-    "001 Archive/26. ВЫВОД МАССИВА. ПЕРЕБОР МАССИВА. МАССИВЫ И ЦИКЛЫ.md",
     "001 Archive/Без названия 1.base",
     "001 Archive/Без названия 2.base",
     "001 Archive/0Csharp.canvas",
