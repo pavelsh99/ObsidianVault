@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "001 Archive/84. ОБОБЩЕНИЯ. ПРОИЗВОДИТЕЛЬНОСТЬ. КОЛЛЕКЦИИ. LIST VS ARRAYLIST.md",
+                "file": "001 Archive/79.ЯВНАЯ РЕАЛИЗАЦИЯ ИНТЕРФЕЙСА.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "84. ОБОБЩЕНИЯ. ПРОИЗВОДИТЕЛЬНОСТЬ. КОЛЛЕКЦИИ. LIST VS ARRAYLIST"
+              "title": "79.ЯВНАЯ РЕАЛИЗАЦИЯ ИНТЕРФЕЙСА"
             }
           }
         ]
@@ -74,8 +74,7 @@
               "title": "Закладки"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -173,20 +172,19 @@
   },
   "active": "236bdde3bf4d9a96",
   "lastOpenFiles": [
+    "001 Archive/83. ОБОБЩЕНИЯ. GENERICS. GENERIC ТИПЫ, МЕТОДЫ, КЛАССЫ.md",
+    "001 Archive/82. УПАКОВКА И РАСПАКОВКА ЗНАЧИМЫХ ТИПОВ. BOXING UNBOXING.md",
+    "001 Archive/84. ОБОБЩЕНИЯ. ПРОИЗВОДИТЕЛЬНОСТЬ. КОЛЛЕКЦИИ. LIST VS ARRAYLIST.md",
     "000/Attachments/Pasted image 20260221124100.png",
     "000/Attachments/Pasted image 20260221123441.png",
     "000/Attachments/Pasted image 20260221123415.png",
     "000/Attachments/Pasted image 20260221123058.png",
     "000/Attachments/Pasted image 20260221122143.png",
-    "001 Archive/83. ОБОБЩЕНИЯ. GENERICS. GENERIC ТИПЫ, МЕТОДЫ, КЛАССЫ.md",
-    "001 Archive/84. ОБОБЩЕНИЯ. ПРОИЗВОДИТЕЛЬНОСТЬ. КОЛЛЕКЦИИ. LIST VS ARRAYLIST.md",
     "000/Attachments/Pasted image 20260220115627.png",
     "000/Attachments/Pasted image 20260220115548.png",
     "000/Attachments/Pasted image 20260220114113.png",
-    "001 Archive/82.УПАКОВКА И РАСПАКОВКА ЗНАЧИМЫХ ТИПОВ. BOXING UNBOXING.md",
     "000/Attachments/Pasted image 20260219122946.png",
     "000/Attachments/Pasted image 20260219122907.png",
-    "000/Attachments/Pasted image 20260219122800.png",
     "001 Archive/81. СТРУКТУРЫ. ОТЛИЧИЯ ОТ КЛАССОВ.md",
     "001 Archive/45. МОДИФИКАТОР IN. РАЗНИЦА между IN REF и OUT..md",
     "001 Archive/44. КЛЮЧЕВОЕ СЛОВО OUT. РАЗНИЦА между REF и OUT.md",
