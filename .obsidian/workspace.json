@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "001 Archive/84. ОБОБЩЕНИЯ. ПРОИЗВОДИТЕЛЬНОСТЬ. КОЛЛЕКЦИИ. LIST VS ARRAYLIST.md",
+                "file": "001 Archive/85. ENUMERABLE И IENUMERATOR. КАК РАБОТАЕТ FOREACH И ПРИ ЧЕМ ТУТ ПАТТЕРН ИТТЕРАТОР.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "84. ОБОБЩЕНИЯ. ПРОИЗВОДИТЕЛЬНОСТЬ. КОЛЛЕКЦИИ. LIST VS ARRAYLIST"
+              "title": "85. ENUMERABLE И IENUMERATOR. КАК РАБОТАЕТ FOREACH И ПРИ ЧЕМ ТУТ ПАТТЕРН ИТТЕРАТОР"
             }
           }
         ]
@@ -172,8 +172,8 @@
   },
   "active": "236bdde3bf4d9a96",
   "lastOpenFiles": [
-    "001 Archive/83. ОБОБЩЕНИЯ. GENERICS. GENERIC ТИПЫ, МЕТОДЫ, КЛАССЫ.md",
     "001 Archive/84. ОБОБЩЕНИЯ. ПРОИЗВОДИТЕЛЬНОСТЬ. КОЛЛЕКЦИИ. LIST VS ARRAYLIST.md",
+    "001 Archive/83. ОБОБЩЕНИЯ. GENERICS. GENERIC ТИПЫ, МЕТОДЫ, КЛАССЫ.md",
     "001 Archive/85. ENUMERABLE И IENUMERATOR. КАК РАБОТАЕТ FOREACH И ПРИ ЧЕМ ТУТ ПАТТЕРН ИТТЕРАТОР.md",
     "001 Archive/89. СОБЫТИЯ (EVENTS).md",
     "001 Archive/82. УПАКОВКА И РАСПАКОВКА ЗНАЧИМЫХ ТИПОВ. BOXING UNBOXING.md",
