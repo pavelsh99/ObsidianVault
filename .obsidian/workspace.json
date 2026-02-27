@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "001 Archive/85. ENUMERABLE И IENUMERATOR. КАК РАБОТАЕТ FOREACH И ПРИ ЧЕМ ТУТ ПАТТЕРН ИТТЕРАТОР.md",
+                "file": "001 Archive/86. КЛЮЧЕВОЕ СЛОВО YIELD. ДЛЯ ЧЕГО НУЖЕН YIELD RETURN И КАК УСТРОЕН.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "85. ENUMERABLE И IENUMERATOR. КАК РАБОТАЕТ FOREACH И ПРИ ЧЕМ ТУТ ПАТТЕРН ИТТЕРАТОР"
+              "title": "86. КЛЮЧЕВОЕ СЛОВО YIELD. ДЛЯ ЧЕГО НУЖЕН YIELD RETURN И КАК УСТРОЕН"
             }
           }
         ]
@@ -173,9 +173,10 @@
   "active": "236bdde3bf4d9a96",
   "lastOpenFiles": [
     "001 Archive/84. ОБОБЩЕНИЯ. ПРОИЗВОДИТЕЛЬНОСТЬ. КОЛЛЕКЦИИ. LIST VS ARRAYLIST.md",
-    "001 Archive/83. ОБОБЩЕНИЯ. GENERICS. GENERIC ТИПЫ, МЕТОДЫ, КЛАССЫ.md",
     "001 Archive/85. ENUMERABLE И IENUMERATOR. КАК РАБОТАЕТ FOREACH И ПРИ ЧЕМ ТУТ ПАТТЕРН ИТТЕРАТОР.md",
     "001 Archive/89. СОБЫТИЯ (EVENTS).md",
+    "001 Archive/86. КЛЮЧЕВОЕ СЛОВО YIELD. ДЛЯ ЧЕГО НУЖЕН YIELD RETURN И КАК УСТРОЕН.md",
+    "001 Archive/83. ОБОБЩЕНИЯ. GENERICS. GENERIC ТИПЫ, МЕТОДЫ, КЛАССЫ.md",
     "001 Archive/82. УПАКОВКА И РАСПАКОВКА ЗНАЧИМЫХ ТИПОВ. BOXING UNBOXING.md",
     "000/Attachments/Pasted image 20260221124100.png",
     "000/Attachments/Pasted image 20260221123441.png",
@@ -208,7 +209,6 @@
     "001 Archive/69.РАЗНИЦА CONST VS READONLY.  CONST И STATIC.md",
     "001 Archive/20. КЛЮЧЕВОЕ СЛОВО BREAK.md",
     "001 Archive/16. ЦИКЛ WHILE ЧТО ЭТО КАК РАБОТАЕТ.md",
-    "001 Archive/11. ИНКРЕМЕНТ И ДЕКРЕМЕНТ. ПОСТФИКСНЫЙ И ПРЕФИКСНЫЙ..md",
     "001 Archive/Без названия 1.base",
     "001 Archive/Без названия 2.base",
     "001 Archive/0Csharp.canvas",
