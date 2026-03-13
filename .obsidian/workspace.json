@@ -8,35 +8,53 @@
         "type": "tabs",
         "children": [
           {
-            "id": "236bdde3bf4d9a96",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "001 Archive/86. КЛЮЧЕВОЕ СЛОВО YIELD. ДЛЯ ЧЕГО НУЖЕН YIELD RETURN И КАК УСТРОЕН.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "86. КЛЮЧЕВОЕ СЛОВО YIELD. ДЛЯ ЧЕГО НУЖЕН YIELD RETURN И КАК УСТРОЕН"
-            }
-          },
-          {
             "id": "2638fba5ee92b416",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "001 Archive/87. YIELD BREAK. ЧТО ТАКОЕ И КАК ИСПОЛЬЗОВАТЬ.md",
-                "mode": "source",
-                "source": false
+                "file": "001 Archive/0_НЕТВОРКИНГ/Без названия.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
+                }
               },
-              "icon": "lucide-file",
-              "title": "87. YIELD BREAK. ЧТО ТАКОЕ И КАК ИСПОЛЬЗОВАТЬ"
+              "icon": "lucide-layout-dashboard",
+              "title": "Без названия"
+            }
+          },
+          {
+            "id": "190f6837bf21d8ce",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "001 Archive/0_НЕТВОРКИНГ/Без названия.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Без названия"
+            }
+          },
+          {
+            "id": "a9314d5626422398",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "001 Archive/0_НЕТВОРКИНГ/Drawing 2026-03-13 22.59.15.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2026-03-13 22.59.15.excalidraw"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -165,9 +183,19 @@
               "icon": "lucide-list",
               "title": "Структура 75. ПОЛИМОРФИЗМ. ВИРТУАЛЬНЫЕ МЕТОДЫ. VIRTUAL OVERRIDE."
             }
+          },
+          {
+            "id": "5a97691042e0e3c1",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -175,6 +203,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-excalidraw-plugin:Создать новый чертеж": false,
       "bases:Создать новую базу": false,
       "switcher:Меню быстрого перехода": false,
       "graph:Граф": false,
@@ -185,15 +214,22 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2638fba5ee92b416",
+  "active": "2fdfa37d59b2b3a8",
   "lastOpenFiles": [
+    "001 Archive/0_НЕТВОРКИНГ/Drawing 2026-03-13 22.59.15.excalidraw.md",
+    "001 Archive/0_НЕТВОРКИНГ/Без названия.canvas",
+    "Excalidraw/Drawing 2026-03-13 22.58.07.excalidraw.md",
+    "Excalidraw",
+    "Без названия.canvas",
+    "001 Archive/87. YIELD BREAK. ЧТО ТАКОЕ И КАК ИСПОЛЬЗОВАТЬ.md",
+    "001 Archive/89. СОБЫТИЯ (EVENTS).md",
+    "001 Archive/2026-03-13.md",
+    "001 Archive/0_НЕТВОРКИНГ",
     "000/Attachments/Pasted image 20260305110926.png",
     "000/Attachments/Pasted image 20260305110827.png",
     "000/Attachments/Pasted image 20260305102449.png",
     "000/Attachments/Pasted image 20260305102311.png",
     "000/Attachments/Pasted image 20260305102253.png",
-    "001 Archive/89. СОБЫТИЯ (EVENTS).md",
-    "001 Archive/87. YIELD BREAK. ЧТО ТАКОЕ И КАК ИСПОЛЬЗОВАТЬ.md",
     "001 Archive/23.ТЕРНАРНЫЙ ОПЕРАТОР.md",
     "001 Archive/86. КЛЮЧЕВОЕ СЛОВО YIELD. ДЛЯ ЧЕГО НУЖЕН YIELD RETURN И КАК УСТРОЕН.md",
     "000/Attachments/Pasted image 20260301115443.png",
@@ -201,7 +237,6 @@
     "000/Attachments/Pasted image 20260301115229.png",
     "000/Attachments/Pasted image 20260301115045.png",
     "000/Attachments/Pasted image 20260301113122.png",
-    "000/Attachments/Pasted image 20260228135323.png",
     "001 Archive/84. ОБОБЩЕНИЯ. ПРОИЗВОДИТЕЛЬНОСТЬ. КОЛЛЕКЦИИ. LIST VS ARRAYLIST.md",
     "001 Archive/85. ENUMERABLE И IENUMERATOR. КАК РАБОТАЕТ FOREACH И ПРИ ЧЕМ ТУТ ПАТТЕРН ИТТЕРАТОР.md",
     "001 Archive/83. ОБОБЩЕНИЯ. GENERICS. GENERIC ТИПЫ, МЕТОДЫ, КЛАССЫ.md",
@@ -221,13 +256,9 @@
     "001 Archive/74. НАСЛЕДОВАНИЕ И МОДИФИКАТОРЫ ДОСТУПА.  МОДИФИКАТОРЫ ДОСТУПА. МОДИФИКАТОР PORTECTED..md",
     "001 Archive/62. СВОЙСТВА GET SET. КЛЮЧЕВОЕ СЛОВО VALUE. АВТОМАТИЧЕСКИЕ СВОЙСТВА.md",
     "001 Archive/75. ПОЛИМОРФИЗМ. ВИРТУАЛЬНЫЕ МЕТОДЫ. VIRTUAL OVERRIDE..md",
-    "001 Archive/76.  АБСТРАКТНЫЕ КЛАССЫ И МЕТОДЫ.md",
-    "001 Archive/22. ВЛОЖЕННЫЕ ЦИКЛЫ.md",
-    "001 Archive/70. СИНТАКСИС ИНИЦИАЛИЗАЦИИ ОБЪЕКТОВ КЛАССА..md",
     "001 Archive/Без названия 1.base",
     "001 Archive/Без названия 2.base",
     "001 Archive/0Csharp.canvas",
-    "Без названия.canvas",
     "001 Archive/HOMEWORK",
     "001 Archive/HOMEWORK",
     "001 Archive",
