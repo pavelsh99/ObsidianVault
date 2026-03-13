@@ -11,40 +11,6 @@
             "id": "2638fba5ee92b416",
             "type": "leaf",
             "state": {
-              "type": "canvas",
-              "state": {
-                "file": "001 Archive/0_НЕТВОРКИНГ/Без названия.canvas",
-                "viewState": {
-                  "x": 0,
-                  "y": 0,
-                  "zoom": 0
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "Без названия"
-            }
-          },
-          {
-            "id": "190f6837bf21d8ce",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "001 Archive/0_НЕТВОРКИНГ/Без названия.canvas",
-                "viewState": {
-                  "x": 0,
-                  "y": 0,
-                  "zoom": 0
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "Без названия"
-            }
-          },
-          {
-            "id": "a9314d5626422398",
-            "type": "leaf",
-            "state": {
               "type": "excalidraw",
               "state": {
                 "file": "001 Archive/0_НЕТВОРКИНГ/Мои контакты.excalidraw.md"
@@ -53,8 +19,7 @@
               "title": "Мои контакты.excalidraw"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -214,12 +179,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1c4986acab0a254b",
+  "active": "2638fba5ee92b416",
   "lastOpenFiles": [
+    "Excalidraw/Drawing 2026-03-14 01.44.39.excalidraw.md",
     "001 Archive/0_НЕТВОРКИНГ/Мои контакты.excalidraw.md",
+    "001 Archive/89. СОБЫТИЯ (EVENTS) 1.md",
+    "Excalidraw",
     "001 Archive/0_НЕТВОРКИНГ/Без названия.canvas",
     "Excalidraw/Drawing 2026-03-13 22.58.07.excalidraw.md",
-    "Excalidraw",
     "Без названия.canvas",
     "001 Archive/87. YIELD BREAK. ЧТО ТАКОЕ И КАК ИСПОЛЬЗОВАТЬ.md",
     "001 Archive/89. СОБЫТИЯ (EVENTS).md",
@@ -255,7 +222,6 @@
     "001 Archive/77. ИНТЕРФЕЙСЫ. ЗАЧЕМ НУЖНЫ И КАК ИСПОЛЬЗОВАТЬ..md",
     "001 Archive/74. НАСЛЕДОВАНИЕ И МОДИФИКАТОРЫ ДОСТУПА.  МОДИФИКАТОРЫ ДОСТУПА. МОДИФИКАТОР PORTECTED..md",
     "001 Archive/62. СВОЙСТВА GET SET. КЛЮЧЕВОЕ СЛОВО VALUE. АВТОМАТИЧЕСКИЕ СВОЙСТВА.md",
-    "001 Archive/75. ПОЛИМОРФИЗМ. ВИРТУАЛЬНЫЕ МЕТОДЫ. VIRTUAL OVERRIDE..md",
     "001 Archive/Без названия 1.base",
     "001 Archive/Без названия 2.base",
     "001 Archive/0Csharp.canvas",
