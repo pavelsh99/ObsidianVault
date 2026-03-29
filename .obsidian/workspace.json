@@ -25,10 +25,10 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "001 Archive/0_НЕТВОРКИНГ/Круг целей.md"
+                "file": "001 Archive/0_НЕТВОРКИНГ/Мои контакты.excalidraw.md"
               },
               "icon": "excalidraw-icon",
-              "title": "Круг целей"
+              "title": "Мои контакты.excalidraw"
             }
           },
           {
@@ -44,7 +44,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -204,16 +204,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ee203ef291d668d1",
+  "active": "2d5e38458e08f476",
   "lastOpenFiles": [
+    "001 Archive/0_НЕТВОРКИНГ/Круг целей.md",
+    "001 Archive/0_НЕТВОРКИНГ/Мои контакты.excalidraw.md",
     "001 Archive/3.Переменные.md",
     "001 Archive/78. НАСЛЕДОВАНИЕ ИНТЕРФЕЙСОВ. МНОЖЕСТВЕННОЕ НАСЛЕДОВАНИЕ.md",
     "001 Archive/74. НАСЛЕДОВАНИЕ И МОДИФИКАТОРЫ ДОСТУПА.  МОДИФИКАТОРЫ ДОСТУПА. МОДИФИКАТОР PORTECTED..md",
     "001 Archive/45. МОДИФИКАТОР IN. РАЗНИЦА между IN REF и OUT..md",
     "001 Archive/34. ТРЁХМЕРНЫЕ МАССИВЫ. МНОГОМЕРНЫЕ МАССИВЫ ЛЮБОЙ МЕРНОСТИ.md",
     "001 Archive/26. ВЫВОД МАССИВА. ПЕРЕБОР МАССИВА. МАССИВЫ И ЦИКЛЫ.md",
-    "001 Archive/0_НЕТВОРКИНГ/Круг целей.md",
-    "001 Archive/0_НЕТВОРКИНГ/Мои контакты.excalidraw.md",
     "001 Archive/80. РЕАЛИЗАЦИЯ ИНТЕРФЕЙСОВ ПО-УМОЛЧАНИЮ В CSHARP 8.0.md",
     "001 Archive/76.  АБСТРАКТНЫЕ КЛАССЫ И МЕТОДЫ.md",
     "001 Archive/87. YIELD BREAK. ЧТО ТАКОЕ И КАК ИСПОЛЬЗОВАТЬ.md",
