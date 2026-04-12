@@ -11,12 +11,14 @@
             "id": "b31fb8da2a4f8950",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "001 Archive/0_НЕТВОРКИНГ/Круг целей.md"
+                "file": "001 Archive/52. ЧТО ТАКОЕ NULLABLE. NULL СОВМЕСТИМЫЕ ЗНАЧИМЫЕ ТИПЫ NULLABLE..md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "Круг целей"
+              "icon": "lucide-file",
+              "title": "52. ЧТО ТАКОЕ NULLABLE. NULL СОВМЕСТИМЫЕ ЗНАЧИМЫЕ ТИПЫ NULLABLE."
             }
           },
           {
@@ -204,9 +206,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2d5e38458e08f476",
+  "active": "62b0fc454c4fb8d4",
   "lastOpenFiles": [
     "001 Archive/0_НЕТВОРКИНГ/Мои контакты.excalidraw.md",
+    "001 Archive/52. ЧТО ТАКОЕ NULLABLE. NULL СОВМЕСТИМЫЕ ЗНАЧИМЫЕ ТИПЫ NULLABLE..md",
     "001 Archive/0_НЕТВОРКИНГ/Круг целей.md",
     "001 Archive/3.Переменные.md",
     "001 Archive/78. НАСЛЕДОВАНИЕ ИНТЕРФЕЙСОВ. МНОЖЕСТВЕННОЕ НАСЛЕДОВАНИЕ.md",
@@ -245,7 +248,6 @@
     "001 Archive/83. ОБОБЩЕНИЯ. GENERICS. GENERIC ТИПЫ, МЕТОДЫ, КЛАССЫ.md",
     "001 Archive/82. УПАКОВКА И РАСПАКОВКА ЗНАЧИМЫХ ТИПОВ. BOXING UNBOXING.md",
     "001 Archive/81. СТРУКТУРЫ. ОТЛИЧИЯ ОТ КЛАССОВ.md",
-    "001 Archive/44. КЛЮЧЕВОЕ СЛОВО OUT. РАЗНИЦА между REF и OUT.md",
     "001 Archive/Без названия.base",
     "001 Archive/Без названия 1.base",
     "001 Archive/Без названия 2.base",
