@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "001 Archive/Дневник/Дневник.md",
+                "file": "001 Archive/85. ENUMERABLE И IENUMERATOR. КАК РАБОТАЕТ FOREACH И ПРИ ЧЕМ ТУТ ПАТТЕРН ИТТЕРАТОР.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Дневник"
+              "title": "85. ENUMERABLE И IENUMERATOR. КАК РАБОТАЕТ FOREACH И ПРИ ЧЕМ ТУТ ПАТТЕРН ИТТЕРАТОР"
             }
           },
           {
@@ -207,8 +207,10 @@
   },
   "active": "b31fb8da2a4f8950",
   "lastOpenFiles": [
-    "001 Archive/2026-04-12.md",
+    "001 Archive/86. КЛЮЧЕВОЕ СЛОВО YIELD. ДЛЯ ЧЕГО НУЖЕН YIELD RETURN И КАК УСТРОЕН.md",
+    "001 Archive/87. YIELD BREAK. ЧТО ТАКОЕ И КАК ИСПОЛЬЗОВАТЬ.md",
     "001 Archive/Дневник/Дневник.md",
+    "001 Archive/2026-04-12.md",
     "001 Archive/2026-04-14.md",
     "001 Archive/2026-04-13.md",
     "001 Archive/52. ЧТО ТАКОЕ NULLABLE. NULL СОВМЕСТИМЫЕ ЗНАЧИМЫЕ ТИПЫ NULLABLE..md",
@@ -223,7 +225,6 @@
     "001 Archive/26. ВЫВОД МАССИВА. ПЕРЕБОР МАССИВА. МАССИВЫ И ЦИКЛЫ.md",
     "001 Archive/80. РЕАЛИЗАЦИЯ ИНТЕРФЕЙСОВ ПО-УМОЛЧАНИЮ В CSHARP 8.0.md",
     "001 Archive/76.  АБСТРАКТНЫЕ КЛАССЫ И МЕТОДЫ.md",
-    "001 Archive/87. YIELD BREAK. ЧТО ТАКОЕ И КАК ИСПОЛЬЗОВАТЬ.md",
     "001 Archive/HOMEWORK/HW 10.md",
     "000/Attachments/Pasted image 20260301115231.png",
     "001 Archive/2026-03-14.md",
@@ -242,7 +243,6 @@
     "000/Attachments/Pasted image 20260305102311.png",
     "000/Attachments/Pasted image 20260305102253.png",
     "001 Archive/23.ТЕРНАРНЫЙ ОПЕРАТОР.md",
-    "001 Archive/86. КЛЮЧЕВОЕ СЛОВО YIELD. ДЛЯ ЧЕГО НУЖЕН YIELD RETURN И КАК УСТРОЕН.md",
     "000/Attachments/Pasted image 20260301115443.png",
     "000/Attachments/Pasted image 20260301115229.png",
     "000/Attachments/Pasted image 20260301115045.png",
