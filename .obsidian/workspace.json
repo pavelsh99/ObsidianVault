@@ -11,14 +11,12 @@
             "id": "b31fb8da2a4f8950",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "001 Archive/Дневник/Дневник.md",
-                "mode": "source",
-                "source": false
+                "file": "001 Archive/0_НЕТВОРКИНГ/Мои контакты.excalidraw.md"
               },
-              "icon": "lucide-file",
-              "title": "Дневник"
+              "icon": "excalidraw-icon",
+              "title": "Мои контакты.excalidraw"
             }
           },
           {
@@ -45,7 +43,8 @@
               "title": "Мои контакты.excalidraw"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -102,7 +101,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 655.5017547607422
+    "width": 307.5017547607422
   },
   "right": {
     "id": "8052d1e342446cc2",
@@ -205,19 +204,19 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b31fb8da2a4f8950",
+  "active": "466a709008196f7c",
   "lastOpenFiles": [
+    "001 Archive/0_НЕТВОРКИНГ/Круг целей.md",
+    "001 Archive/0_НЕТВОРКИНГ/Мои контакты.excalidraw.md",
+    "001 Archive/Дневник/Дневник.md",
     "001 Archive/85. ENUMERABLE И IENUMERATOR. КАК РАБОТАЕТ FOREACH И ПРИ ЧЕМ ТУТ ПАТТЕРН ИТТЕРАТОР.md",
     "001 Archive/86. КЛЮЧЕВОЕ СЛОВО YIELD. ДЛЯ ЧЕГО НУЖЕН YIELD RETURN И КАК УСТРОЕН.md",
     "001 Archive/87. YIELD BREAK. ЧТО ТАКОЕ И КАК ИСПОЛЬЗОВАТЬ.md",
-    "001 Archive/Дневник/Дневник.md",
     "001 Archive/2026-04-12.md",
     "001 Archive/2026-04-14.md",
     "001 Archive/2026-04-13.md",
     "001 Archive/52. ЧТО ТАКОЕ NULLABLE. NULL СОВМЕСТИМЫЕ ЗНАЧИМЫЕ ТИПЫ NULLABLE..md",
     "001 Archive/Дневник",
-    "001 Archive/0_НЕТВОРКИНГ/Круг целей.md",
-    "001 Archive/0_НЕТВОРКИНГ/Мои контакты.excalidraw.md",
     "001 Archive/3.Переменные.md",
     "001 Archive/78. НАСЛЕДОВАНИЕ ИНТЕРФЕЙСОВ. МНОЖЕСТВЕННОЕ НАСЛЕДОВАНИЕ.md",
     "001 Archive/74. НАСЛЕДОВАНИЕ И МОДИФИКАТОРЫ ДОСТУПА.  МОДИФИКАТОРЫ ДОСТУПА. МОДИФИКАТОР PORTECTED..md",
