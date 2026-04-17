@@ -11,12 +11,14 @@
             "id": "b31fb8da2a4f8950",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "001 Archive/0_НЕТВОРКИНГ/Мои контакты.excalidraw.md"
+                "file": "001 Archive/Дневник/Дневник.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "Мои контакты.excalidraw"
+              "icon": "lucide-file",
+              "title": "Дневник"
             }
           },
           {
@@ -43,8 +45,7 @@
               "title": "Мои контакты.excalidraw"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -204,7 +205,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "466a709008196f7c",
+  "active": "b31fb8da2a4f8950",
   "lastOpenFiles": [
     "001 Archive/0_НЕТВОРКИНГ/Круг целей.md",
     "001 Archive/0_НЕТВОРКИНГ/Мои контакты.excalidraw.md",
