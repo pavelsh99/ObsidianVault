@@ -45,7 +45,8 @@
               "title": "Мои контакты.excalidraw"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -205,7 +206,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b31fb8da2a4f8950",
+  "active": "74a2aa31152f1fad",
   "lastOpenFiles": [
     "001 Archive/0_НЕТВОРКИНГ/Круг целей.md",
     "001 Archive/0_НЕТВОРКИНГ/Мои контакты.excalidraw.md",
