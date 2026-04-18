@@ -25,12 +25,14 @@
             "id": "2d5e38458e08f476",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "001 Archive/0_НЕТВОРКИНГ/Круг целей.md"
+                "file": "001 Archive/Дневник/Дневник.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "Круг целей"
+              "icon": "lucide-file",
+              "title": "Дневник"
             }
           },
           {
@@ -206,7 +208,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "74a2aa31152f1fad",
+  "active": "2d5e38458e08f476",
   "lastOpenFiles": [
     "001 Archive/0_НЕТВОРКИНГ/Круг целей.md",
     "001 Archive/0_НЕТВОРКИНГ/Мои контакты.excalidraw.md",
